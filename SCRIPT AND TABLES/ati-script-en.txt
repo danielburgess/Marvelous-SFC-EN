@@ -2609,8 +2609,7 @@ You have quite an eye.[np]
 [scl]panel.
 [en2]
 I can see... B...
-[nl2]Benson...
-[en2]
+[nl2]Benson...[en2]
 You're a shrewd
 [nl2]customer, aren't you?[np]
 [nl3]That hat was used by a
@@ -3233,8 +3232,7 @@ We finished the King's
 [nl2]gown.[np]
 [nl3]Maybe Polly's father
 [scl]will change his mind
-[scl]about us now.
-[en2]
+[scl]about us now.[en2]
 It goes allll the way
 [nl2]to the top.
 [en1]
@@ -3541,8 +3539,7 @@ Dear Solomon,[np]
 [scl]peace to our kingdom.[np]
 [scl]
 [scl]   Don't worry,
-[scl]   -Polly
-[en2]
+[scl]   -Polly[en2]
 Huh? This face....
 [nl2]It's Max! It looks
 [nl3]just like Max!!
@@ -4381,8 +4378,7 @@ This's my only son,
 [scl]doing now...[np]
 [scl]I hope he hasn't been
 [scl]killed on some far
-[scl]away island...
-[en2]
+[scl]away island...[en2]
 We should take this
 [nl2]child home right away.[np]
 [nl3]I'm sure his mother is
@@ -4405,8 +4401,7 @@ The crow in the
 [nl3]my father's grave.[np]
 [scl]If he sees these
 [scl]flowers, I'm sure
-[scl]he'll remember me.
-[en2]
+[scl]he'll remember me.[en2]
 Will you listen to
 [nl2]what I have to say?
 [en2]
@@ -4431,8 +4426,7 @@ Y'all really saved
 [nl3]near the tombstone...
 [en2]
 It's the tombstone for
-[nl2]Christopher Benson.
-[en2]
+[nl2]Christopher Benson.[en2]
 There's a gap in the
 [nl2]stone here... I think
 [nl3]something's inside...
@@ -4499,8 +4493,7 @@ It's the legendary
 [scl]and died doing it.[np]
 [scl]He was buried in the
 [scl]cemetery outside of
-[scl]town.
-[en2]
+[scl]town.[en2]
 Indio was leading the
 [nl2]bandits!![np]
 [nl3]It's his fault they
@@ -4536,8 +4529,7 @@ It's Benson, yeah?[np]
 [scl]treasure「,[np]
 [scl]but he got hoodwinked
 [scl]by a master of
-[scl]deception!
-[en2]
+[scl]deception![en2]
 This is Indio, the
 [nl2]leader of the bandits,
 [nl3]right?[np]
@@ -4546,8 +4538,7 @@ This is Indio, the
 [scl]machine「,[np]
 [scl]and then the bandits
 [scl]made off with the
-[scl]「town's treasure.「
-[en2]
+[scl]「town's treasure.「[en2]
 Now that Indio's dead,
 [nl2]no one knows where the
 [nl3]Crystal Ball is at.[np]
@@ -4588,8 +4579,7 @@ Wow, take a look at
 [en2]
 It's the legendary
 [nl2]pirate Benson, isn't
-[nl3]it?
-[en2]
+[nl3]it?[en2]
 This guy is Indio...[np]
 [nl2]The guy who fooled the
 [nl3]legendary pirate
@@ -4597,8 +4587,7 @@ This guy is Indio...[np]
 [scl]Indio filled Benson's
 [scl]head with lies,[np]
 [scl]but got caught trying
-[scl]to make his escape.
-[en2]
+[scl]to make his escape.[en2]
 If you can find 4 of
 [nl2]these Crystal Balls,[np]
 [nl3]it's rumored they'll
@@ -4647,20 +4636,19 @@ I don't know who it
 No idea...
 [en2]
 This picture was very
-[nl2]special to my father.
-[en2]
+[nl2]special to my father.[en2]
 My father told me he
 [nl2]had made a time
 [nl3]machine.[np]
-[scl]He used it to try to
-[nl3]make this man believe[np]
-[scl]that the water would
-[scl]dry up in this town.
-[en2]
+[scl]He used it in the hope
+[scl]that this man would
+[scl]see for himself[np]
+[scl]that the water around
+[scl]town would soon be
+[scl]dried up.[en2]
 It's my father, Indio.
 [nl2]He said he could
-[nl3]travel through time.
-[en2]
+[nl3]travel through time.[en2]
 The people of this
 [nl2]town believe this is a
 [nl3]special item.[np]
@@ -4669,11 +4657,9 @@ The people of this
 [scl]treasure.[np]
 [scl]But to us, it's really
 [scl]a component of the
-[scl]「time machine.「
-[en2]
+[scl]「time machine.「[en2]
 Oh wow, what are you
-[nl2]doing with that photo?
-[en2]
+[nl2]doing with that photo?[en2]
 This is my husband
 [nl2]when he was younger.[np]
 [nl3]His name was
@@ -4686,8 +4672,7 @@ This is my husband
 [scl]he had been deceived![en2]
 When I met him, he
 [nl2]didn't seem the type to
-[nl3]steal things...
-[en2]
+[nl3]steal things...[en2]
 My husband found a
 [nl2]Crystal Ball.[np]
 [nl3]He said that it was
@@ -4714,14 +4699,12 @@ My husband found a
 [scl]behind.[en1]
 The old lady over
 [nl2]there should have the
-[nl3]key to the mansion.
-[en2]
+[nl3]key to the mansion.[en2]
 Dang it, how could all
 [nl2]the water dry up![np]
 [nl3]I should have listened
 [scl]to Indio and dug more
-[scl]wells...
-[en2]
+[scl]wells...[en2]
 [SP$0121]There are 3
 [nl2]clocks... The first
 [nl3]one is at 10:00.[np]
@@ -4732,30 +4715,23 @@ Dang it, how could all
 [scl]10:00, 9:30, 10:30...
 [scl][en2]
 I'll lend you the key,
-[nl2]so come over here.
-[en2]
+[nl2]so come over here.[en2]
 Now you can enter the
-[nl2]mansion.
-[en1]
+[nl2]mansion.[en1]
 [F2]Received the Mansion
 [nl2]Key![np]
 [nl3]Now you can enter the
-[scl]「Time Room「!
-[en1]
+[scl]「Time Room「![en1]
 Even now, when I look
 [nl2]at that mansion,[np]
 [nl3]I can still feel my
 [scl]husband's presence...
-[scl]So I can't go in...
-[en2]
+[scl]So I can't go in...[en2]
 ...Farewell...
-[nl2]And thank you!
-[en1]
-You sure about that?
-[en2]
+[nl2]And thank you![en1]
+You sure about that?[en2]
 You're really sure
-[nl2]about that?
-[en2]
+[nl2]about that?[en2]
 The oldest one is to
 [nl2]the left of the
 [nl3]youngest one.[np]
@@ -4767,8 +4743,7 @@ The oldest one is to
 [scl]youngest one.[np]
 [scl]If you figure it out,
 [scl]go from the oldest and
-[scl]point at us in order!
-[en2]
+[scl]point at us in order![en2]
 [SP$020D]Not even close!
 [nl2]Is that your best
 [nl3]shot?[np]
@@ -4790,18 +4765,15 @@ The guard in front of
 [scl]I wonder what happened
 [scl]here...[np]
 [scl]Now anyone can come
-[scl]and go as they please.
-[en2]
+[scl]and go as they please.[en2]
 I wonder what will be
 [nl2]made in this pot.[np]
 [nl3]I can't wait to find
-[scl]out!
-[en2]
+[scl]out![en2]
 Is lunch ready yet?[np]
 [nl2]What is Dorothy
 [nl3]planning on making,
-[scl]anyway?
-[en2]
+[scl]anyway?[en2]
 The King's hobby is
 [nl2]gardening.[np]
 [nl3]Supposedly, there is a
@@ -4809,11 +4781,9 @@ The King's hobby is
 [scl]behind the castle...[np]
 [scl]But I've never
 [scl]actually seen it.
-[scl]
-[en2]
+[scl][en2]
 It doesn't seem too
-[nl2]heavy.
-[en2]
+[nl2]heavy.[en2]
 I never thought I'd
 [nl2]see you all again. I'm
 [nl3]so glad I was wrong.[np]
@@ -4849,27 +4819,21 @@ What? Lunch is another
 [scl]that?[np]
 [scl]Well, aren't you nice
 [scl]boys.
-[scl]
-[en2]
+[scl][en2]
 You guys are pretty
-[nl2]nice.
-[en2]
+[nl2]nice.[en2]
 Bzzt! Wrong item,
-[nl2]Deon!
-[en2]
+[nl2]Deon![en2]
 Come on, Deon, you
-[nl2]know better than that.
-[en2]
+[nl2]know better than that.[en2]
 Using that item makes
-[nl2]no sense, Jack.
-[en2]
+[nl2]no sense, Jack.[en2]
 Did you open the 3
 [nl2]types of treasure
 [nl3]chest in the ship?[np]
 [scl]The place to use the
 [scl]Small Key is west of
-[scl]the ship.
-[en1]
+[scl]the ship.[en1]
 There are 4 handles
 [nl2]that extend outward
 [nl3]from the switch.[np]
@@ -4896,8 +4860,7 @@ There are 4 handles
 [scl]Luck Rock from you.[np]
 [scl] What do you say?[X$6A][np]
 [scl]    Tell me more.
-[scl]    Nah, I got it.[X$68]
-[en1]
+[scl]    Nah, I got it.[X$68][en1]
 I'll tell you the
 [nl2]correct way to rotate
 [nl3]it...[np]
@@ -4905,19 +4868,16 @@ I'll tell you the
 [scl]Left [C$28] times, and
 [scl]Right [C$26] times.[np]
 [scl]...I'm pretty sure
-[scl]that was it.
-[en1]
+[scl]that was it.[en1]
 Did you find a lever
 [nl2]in the cave shaped
 [nl3]like a fish?[np]
 [scl]Speaking of fish...
 [scl]Now you get it, right?
-[scl]
-[en1]
+[scl][en1]
 It's almost lunch
 [nl2]time, so let's head
-[nl3]back!
-[en1]
+[nl3]back![en1]
 Jim is in trouble
 [nl2]across the river![np]
 [nl3]We need the key that
@@ -4927,40 +4887,33 @@ Jim is in trouble
 [scl][en1]
 Try using your 「Mitt
 [nl2]and Ball「 on things in
-[nl3]your way!
-[en1]
+[nl3]your way![en1]
 Are you stuck with the
 [nl2]pipe?[np]
 [nl3]Did you know a short
 [scl]enough kid can fit
-[scl]inside?
-[en1]
+[scl]inside?[en1]
 Is there a better way?
 [nl2]If you think of one,
-[nl3]tell me, okay?
-[en2]
+[nl3]tell me, okay?[en2]
 We have to get this
 [nl2]child home...[np]
 [nl3]I'm sure his mother is
-[scl]worried!
-[en2]
+[scl]worried![en2]
 Thank you, my father
 [nl2]loved this flower.[np]
 [nl3]If you show it to the
 [scl]crow, I'm sure he'll
-[scl]remember me.
-[en1]
+[scl]remember me.[en1]
 I was an idiot for
 [nl2]asking [team] Team.[np]
 [nl3]From now on, I'm
 [scl]calling you Sissy
 [scl]Team.[en2]
 Soccer is getting
-[nl2]boring.
-[en2]
+[nl2]boring.[en2]
 Let's do it again
-[nl2]sometime.
-[en2]
+[nl2]sometime.[en2]
 Don't let Jim know we
 [nl2]told you, but...[np]
 [nl3]He has a crush on Miss
@@ -4973,57 +4926,41 @@ If only you had some
 [scl]ball like a champ...[en2]
 Why is this mansion
 [nl2]the only locked
-[nl3]building?
-[en2]
+[nl3]building?[en2]
 [F2]The door opened![np]
 [nl2]Where could the
-[nl3]「Time Room「 be?
-[en2]
+[nl3]「Time Room「 be?[en2]
 I can still recall a
 [nl2]little bit about the
-[nl3]town's history.
-[en2]
+[nl3]town's history.[en2]
 Caw caw![np]
 [nl2]TL: You guys are
-[nl3]alright.
-[en2]
+[nl3]alright.[en2]
 My dog falls straight
 [nl2]asleep after eating,
-[nl3]so don't worry.
-[en1]
+[nl3]so don't worry.[en1]
 This is my husband's
-[nl2]grandfather.
-[en1]
-This is...
-[en1]
+[nl2]grandfather.[en1]
+This is...[en1]
 Instead of a ghost, I
 [nl2]wish a sprout would
-[nl3]come out...
-[en2]
+[nl3]come out...[en2]
 A ghost wouldn't come
-[nl2]out in the daytime~.
-[en2]
-A... A shadow...!
-[en2]
+[nl2]out in the daytime~.[en2]
+A... A shadow...![en2]
 I wonder if he's
-[nl2]really here?
-[en2]
+[nl2]really here?[en2]
 Even if he's a ghost,
-[nl2]he's awfully shy...
-[en2]
+[nl2]he's awfully shy...[en2]
 I've always been bad
 [nl2]with ghosts and
-[nl3]frogs....
-[en2]
+[nl3]frogs....[en2]
 Indio's daughter must
-[nl2]be behind this!
-[en2]
+[nl2]be behind this![en2]
 It's a little scary,
-[nl2]but exciting, too!
-[en2]
+[nl2]but exciting, too![en2]
 Shall we give him a
-[nl2]shake...?
-[en2]
+[nl2]shake...?[en2]
 It's not that I don't
 [nl2]trust you...[np]
 [nl3]I made a promise not
@@ -5034,8 +4971,7 @@ It's not that I don't
 [scl]from.[en2]
 What's that picture?
 [nl2]It's too far for me to
-[nl3]see it well...
-[en2]
+[nl3]see it well...[en2]
 Hey, it's me and
 [nl2]Indio![np]
 [nl3]I don't remember
@@ -5058,57 +4994,41 @@ What in tarnation!?
 [scl]I'll take that picture
 [scl]if you don't mind.
 [scl][en2]
-Let's hurry!
-[en2]
-Watch this!!
-[en1]
+Let's hurry![en2]
+Watch this!![en1]
 We should be able to
 [nl2]enter through here.
 [nl3]Hurry![en1]
-Come over here.
-[en2]
+Come over here.[en2]
 Maybe if we search
 [nl2]somewhere else I'll
-[nl3]remember.
-[en1]
+[nl3]remember.[en1]
 Won't you try sailing
 [nl2]the seven seas as a
-[nl3]pirate?
-[en2]
+[nl3]pirate?[en2]
 What kind of joke is
 [nl2]it for bandits to
-[nl3]attack pirates?
-[en2]
+[nl3]attack pirates?[en2]
 Why don't you see for
-[nl2]yourself?
-[en2]
+[nl2]yourself?[en2]
 Blue!
-[nl2]Behave yourself!!
-[en2]
+[nl2]Behave yourself!![en2]
 My mommy is pretty,
-[nl2]isn't she?
-[en2]
+[nl2]isn't she?[en2]
 When I get older, I
-[nl2]want to be a teacher!
-[en2]
+[nl2]want to be a teacher![en2]
 What kind of bird egg
 [nl2]is this...?
-[nl3]...What?!
-[en1]
-[F2]A baby crow hatched!
-[en2]
-Wow! Cool!
-[en1]
+[nl3]...What?![en1]
+[F2]A baby crow hatched![en2]
+Wow! Cool![en1]
 I wonder how to make
-[nl2]the flower open up...
-[en2]
+[nl2]the flower open up...[en2]
 Maybe a good kick will
-[nl2]do the trick!
-[en2]
+[nl2]do the trick![en2]
 If you get too close,
 [nl2]the thorns will poke
-[nl3]you...
-[en2]
+[nl3]you...[en2]
 Well blast me
 [nl2]barnacles![np]
 [nl3]The time warp worked!
@@ -5118,8 +5038,7 @@ Well blast me
 [scl]future...?[np]
 [scl]Did the water really
 [scl]dry up like Indio
-[scl]said?!
-[en1]
+[scl]said?![en1]
 This Crystal Ball will
 [nl2]lead us to the
 [nl3]legendary treasure![np]
@@ -5128,31 +5047,25 @@ This Crystal Ball will
 [scl]anymore, does it?[np]
 [scl]Sorry, but we'll be
 [scl]taking it, then!!
-[scl]
-[en1]
+[scl][en1]
 We'll just let the
 [nl2]townspeople handle the
 [nl3]rest.[np]
 [scl]
 [scl]Look forward to it!
-[scl]
-[en1]
+[scl][en1]
 Press the [C$04] button
 [nl2]to punch, hold it to
-[nl3]guard! Okay!?
-[en1]
-Hehehe, later!
-[en1]
+[nl3]guard! Okay!?[en1]
+Hehehe, later![en1]
 The 「town's treasure「
 [nl2]is gone![np]
 [nl3]You stole it, didn't
 [scl]you, Indio?![np]
 [scl]I just received an 
 [scl]anonymous tip about
-[scl]you!
-[en1]
-You're under arrest!
-[en1]
+[scl]you![en1]
+You're under arrest![en1]
 Thanks for assisting
 [nl2]in the arrest, boys![np]
 [nl3]Now we know that Indio
@@ -5163,18 +5076,14 @@ Wow! You opened it!
 [nl3]open the blue door...[np]
 [scl]Let's go there right
 [scl]away.
-[scl]
-[en1]
+[scl][en1]
 ...Isn't there another
-[nl2]way to look inside?
-[en2]
+[nl2]way to look inside?[en2]
 Without getting much
-[nl2]closer, you can't see.
-[en2]
+[nl2]closer, you can't see.[en2]
 [X$6A]Oh, there they are!
 [nl2]What are they talking
-[nl3]about?
-[en2]
+[nl3]about?[en2]
 I didn't steal the
 [nl2]crystal ball! I swear!
 [nl3]But more importantly,[np]
@@ -5189,8 +5098,7 @@ I didn't steal the
 [scl]Unless those wells get
 [scl]dug, and get dug fast,[np]
 [scl]the town will be in
-[scl]huge trouble!
-[en2]
+[scl]huge trouble![en2]
 The town will run out
 [nl2]of water?[np]
 [nl3]You asked the boy at
@@ -5198,13 +5106,11 @@ The town will run out
 [scl]Enough lies![np]
 [scl]Tell me where you hid
 [scl]the 「town's treasure!「
-[scl]
-[en2]
+[scl][en2]
 Indio asked me for a
 [nl2]favor...[np]
 [nl3]Do you guys know where
-[scl]he is right now?
-[en2]
+[scl]he is right now?[en2]
 Indio said this lake
 [nl2]will dry up soon,[np]
 [nl3]so he asked me to dig
@@ -5223,16 +5129,13 @@ Indio said this lake
 [scl]lake.[np]
 [scl]  Help me catch one?[X$6A] 
 [scl]    Okay, sure!
-[scl]    Do it yourself![X$68]
-[en1]
+[scl]    Do it yourself![X$68][en1]
 That's the spirit![np]
 [nl2]I'll head back and
 [nl3]wait for you guys to
-[scl]bring me a penguin.
-[en1]
+[scl]bring me a penguin.[en1]
 I can't because...
-[nl2]I can't swim!
-[en2]
+[nl2]I can't swim![en2]
 You don't have
 [nl2]anything to dig with?[np]
 [nl3]Okay, I'll give you my
@@ -5243,8 +5146,7 @@ You don't have
 [scl]the concept drawn up.[np]
 [scl]I'll give it to the
 [scl]kid who likes building
-[scl]stuff the most.
-[en2]
+[scl]stuff the most.[en2]
 I'd like to give you
 [nl2]the 「hole digging
 [nl3]machine「 I designed,[np]
@@ -5256,42 +5158,33 @@ I'd like to give you
 [F2]Received hole Digging
 [nl2]Machine Blueprints![np]
 [nl3]I think I've seen
-[scl]these parts before...
-[en1]
+[scl]these parts before...[en1]
 My gut tells me there
 [nl2]are [C$24] spots in town
-[nl3]just right for a well.
-[en1]
+[nl3]just right for a well.[en1]
 If we don't dig them
 [nl2]fast, it'll be a
-[nl3]disaster!
-[en2]
+[nl3]disaster![en2]
 [F2]You made a Hole
-[nl2]Digging Machine!
-[en1]
+[nl2]Digging Machine![en1]
 But it's too heavy to
 [nl2]lift.
-[nl3]Max, you take it!
-[en2]
+[nl3]Max, you take it![en2]
 Let's make Max carry
-[nl2]it!
-[en2]
+[nl2]it![en2]
 
-[nl2]Get it together, Jack.
-[en2]
+[nl2]Get it together, Jack.[en2]
 [SP$012C]Moo~ moo~.
 [nl2]TL: Moo moo.[en2]
 Let's get closer and
-[nl2]try something...
-[en2]
+[nl2]try something...[en2]
 [SP$012C]Mrroo~ moooo.[np]
 [nl2]TL: I'm really
 [nl3]ticklish, so don't
 [scl]come any closer![en2]
 You scoundrels! Is
 [nl2]this any way to treat
-[nl3]a lady?!
-[en1]
+[nl3]a lady?![en1]
 [F2]You did it![np]
 [nl2]Now the town will
 [nl3]always have plenty of
@@ -5305,36 +5198,29 @@ You scoundrels! Is
 [scl]Indio, get a frog.[np]
 [scl]The sheriff hates
 [scl]frogs more than
-[scl]anything!
-[en1]
+[scl]anything![en1]
 Thanks to you kids,
 [nl2]the town's water
 [nl3]problems were solved.[np]
 [scl]Now we have to save
-[scl]Indio!
-[en2]
+[scl]Indio![en2]
 Croak ribbit.[np]
 [nl2]TL: Curse those
 [nl3]penguins! Hurry up and
-[scl]mate already!
-[en2]
+[scl]mate already![en2]
 Rrriibit ribbit.[np]
 [nl2]TL: I'm so hungry...
 [nl3]Everything that moves
-[scl]looks like food...
-[en2]
+[scl]looks like food...[en2]
 [F2]You got a Frog![np]
-[nl2]You earned it~.
-[en2]
+[nl2]You earned it~.[en2]
 Let's look for the
 [nl2]blue door elevator.[np]
 [nl3]I think it was below
 [scl]the room I was trapped
-[scl]in.
-[en2]
+[scl]in.[en2]
 Yikes! A frog!!
-[nl2]Help me!!
-[en1]
+[nl2]Help me!![en1]
 The guy on the left is
 [nl2]Benson! And I'm next
 [nl3]to him...[np]
@@ -5346,26 +5232,21 @@ The guy on the left is
 [scl]travelers?![np]
 [scl]Please, take this
 [scl]photograph and look
-[scl]for Benson!
-[en2]
+[scl]for Benson![en2]
 Eh? You say you know
 [nl2]Benson?[np]
 [nl3]It's not that I don't
 [scl]believe you, but do
-[scl]you have any proof?
-[en2]
+[scl]you have any proof?[en2]
 You guys must be time
 [nl2]travelers![np]
 [nl3]I am sure you will be
-[scl]able to find Benson!
-[en2]
+[scl]able to find Benson![en2]
 Time, please protect
-[nl2]these children...
-[en2]
+[nl2]these children...[en2]
 Which one do you think
 [nl2]is good?
-[nl3]Point to it.
-[en2]
+[nl3]Point to it.[en2]
 [SP$020C]I see, the one with
 [nl2]just a window...[np]
 [nl3]Yeah, simple is good![en1]
@@ -5391,73 +5272,53 @@ Thanks![np]
 [scl]But there's still a
 [scl]long ways to go...[np]
 [scl]Come back when you're
-[scl]adults!
-[en1]
+[scl]adults![en1]
 [C$32] isn't any good?
 [nl2]Okay, then pick your
-[nl3]favorite.
-[en2]
+[nl3]favorite.[en2]
 Yippee!
-[nl2]The door opened!
-[en2]
+[nl2]The door opened![en2]
 Actually... M...my
 [nl2]hip went out and I
-[nl3]can't move...
-[en2]
-...But.
-[en1]
+[nl3]can't move...[en2]
+...But.[en1]
 It seems like fun, so
-[nl2]I'll do it!
-[en1]
+[nl2]I'll do it![en1]
 [F2]You got some Dynamite![np]
 [nl2]Equip it and use it
-[nl3]with the [C$04] button!
-[en1]
+[nl3]with the [C$04] button![en1]
 Max, try to think
-[nl2]before using an item.
-[en2]
+[nl2]before using an item.[en2]
 Can you come a little
-[nl2]closer?
-[en2]
+[nl2]closer?[en2]
 Stop dawdling and use
 [nl2]the dynamite to find
-[nl3]an entrance!
-[en2]
+[nl3]an entrance![en2]
 Want to try it with
-[nl2]-BOOM- one shot?
-[en2]
+[nl2]-BOOM- one shot?[en2]
 Who is holding the
-[nl2]dynamite?
-[en2]
+[nl2]dynamite?[en2]
 Alright, I've taken
 [nl2]the dynamite back.[np]
 [nl3]When I use this, it
 [scl]will send up a lot of
 [scl]smoke.[np]
-[scl]So don't get lost!
-[en1]
+[scl]So don't get lost![en1]
 As long as our masks
 [nl2]are on, you'll never
-[nl3]get past us!
-[en2]
+[nl3]get past us![en2]
 It's too hard to push
-[nl2]by hand...
-[en2]
-It's pretty heavy...
-[en2]
+[nl2]by hand...[en2]
+It's pretty heavy...[en2]
 To use teamwork, we
 [nl2]have to position
-[nl3]ourselves better.
-[en2]
+[nl3]ourselves better.[en2]
 If we pull it like
 [nl2]this, we'll be
-[nl3]squished!
-[en2]
-Want to get down?
-[en2]
+[nl3]squished![en2]
+Want to get down?[en2]
 Without a bridge, we
-[nl2]can't cross.
-[en2]
+[nl2]can't cross.[en2]
 Captain, what's the
 [nl2]hurry?[np]
 [nl3]...But even in a hurry,
@@ -5465,20 +5326,16 @@ Captain, what's the
 [scl][en2]
 I wonder if something
 [nl2]would happen if I
-[nl3]smacked it.
-[en2]
+[nl3]smacked it.[en2]
 Rakko, rakko.[np]
 [nl2]TL: I scare easily, so
-[nl3]don't startle me!
-[en2]
+[nl3]don't startle me![en2]
 Rakko, rakko.[np]
 [nl2]TL: I scare easily, so
-[nl3]don't startle me!
-[en2]
+[nl3]don't startle me![en2]
 If you don't hurry,
 [nl2]the Mammoth Brothers
-[nl3]will catch you!
-[en2]
+[nl3]will catch you![en2]
 You're pretty bold to
 [nl2]try to steal anything
 [nl3]from us![np]
@@ -5487,351 +5344,256 @@ You're pretty bold to
 [scl]hat...![np]
 [scl]You'll be the first to
 [scl]taste our Dance of 
-[scl]Death!!
-[en1]
-So you're the leader?!
-[en2]
+[scl]Death!![en1]
+So you're the leader?![en2]
 Don't think you can
-[nl2]escape from us!
-[en2]
+[nl2]escape from us![en2]
 ........[en2]
 Listen to what they're
-[nl2]saying!
-[en2]
+[nl2]saying![en2]
 If you don't push it
 [nl2]quickly, the Mammoth
-[nl3]guys will wake up.
-[en2]
+[nl3]guys will wake up.[en2]
 If you return to the
 [nl2]other world, give me a
-[nl3]visit, okay?
-[en2]
+[nl3]visit, okay?[en2]
 If you return to the
 [nl2]other world, give me a
-[nl3]visit, okay?
-[en2]
+[nl3]visit, okay?[en2]
 Thank goodness he was
 [nl2]found innocent![en2]
 It's a message Benson
 [nl2]left for us!
 [nl3]...What does it mean?[en2]
-Is something there?
-[en2]
+Is something there?[en2]
 Come here and look at
-[nl2]the blueprint!
-[en2]
+[nl2]the blueprint![en2]
 What is this
-[nl2]picture...?
-[en2]
-Oh, it's Benson!
-[en2]
+[nl2]picture...?[en2]
+Oh, it's Benson![en2]
 Indio came to see
 [nl2]Benson. He said the
-[nl3]town was in trouble.
-[en2]
+[nl3]town was in trouble.[en2]
 What's the Crystal Ball
 [nl2]called that leads to
 [nl3]Maverick's Treasure?[np]
 [scl]It's called the Blue
-[scl]Blue Crystal, right?
-[en2]
+[scl]Blue Crystal, right?[en2]
 Hmm... What is this
-[nl2]picture?
-[en2]
+[nl2]picture?[en2]
 Well, if it isn't
-[nl2]Benson!
-[en2]
+[nl2]Benson![en2]
 It's a picture of when
-[nl2]Indio met with Benson!
-[en2]
+[nl2]Indio met with Benson![en2]
 The 「Town's Treasure「
 [nl2]was in Benson's hou...
 [nl3]Hou... Achoo!!! House.[np]
-[scl]I'm sure of it.
-[en2]
+[scl]I'm sure of it.[en2]
 What's with this
-[nl2]picture?
-[en2]
+[nl2]picture?[en2]
 It's Benson!
 [nl2]He was a strong, fine
-[nl3]man.
-[en2]
+[nl3]man.[en2]
 It's Indio![np]
 [nl2]He lives on the other
-[scl]side of penguin lake
-[scl]with his daughter.
-[en2]
+[nl3]side of penguin lake
+[scl]with his daughter.[en2]
 It's the 「Town's
 [nl2]Treasure.「[np]
 [nl3]But Indio said it was
 [scl]part of a time
-[scl]machine.
-[en2]
+[scl]machine.[en2]
 Where'd you get this
-[nl2]picture?!
-[en2]
+[nl2]picture?![en2]
 It's my husband. When
 [nl2]did he take this
-[nl3]photograph...?
-[en2]
+[nl3]photograph...?[en2]
 It's the man who came
 [nl2]to see my husband.[np]
 [nl3]He said he knew how to
 [scl]travel through time...[np]
 [scl]I wonder if it was
-[scl]true.
-[en2]
+[scl]true.[en2]
 It's the Crystal Ball
 [nl2]my husband found.[en2]
-What is this picture?!
-[en2]
-It's my dad!
-[en2]
-I dunno!
-[en2]
+What is this picture?![en2]
+It's my dad![en2]
+I dunno![en2]
 I haven't the
-[nl2]slightest idea!
-[en2]
-What is this photo?
-[en2]
+[nl2]slightest idea![en2]
+What is this photo?[en2]
 It's the old man who
-[nl2]lent us this house!
-[en2]
+[nl2]lent us this house![en2]
 It's my father! He's
-[nl2]not in right now.
-[en2]
+[nl2]not in right now.[en2]
 Only God can obtain
-it now!
-[en2]
+[nl2]it now![en2]
 Pii, pii.[np]
-[nl2]TL: Mama! Mama!
-[en2]
+[nl2]TL: Mama! Mama![en2]
 Flutey, flute, flute.[np]
 [nl2]TL: God of time, take
 [nl3]that man to the[np]
-[scl]future~.
-[en2]
+[scl]future~.[en2]
 I wonder if it has
 [nl2]something to do with
-[nl3]that time warp...?
-[en2]
+[nl3]that time warp...?[en2]
 Without a ship, these
 [nl2]people don't really
-[nl3]seem like pirates...
-[en2]
-I'm high on life!!
-[en1]
+[nl3]seem like pirates...[en2]
+I'm high on life!![en1]
 ...I don't really
 [nl2]understand.[np]
 [nl3]But we have to keep
 [scl]our cool.... And get
 [scl]out of here fast![en2]
 The Patchies were
-[nl2]triplets...!
-[en2]
+[nl2]triplets...![en2]
 「How to Pirate「
 [nl2]It looks like a good
-[nl3]read.
-[en2]
+[nl3]read.[en2]
 I want it a little
-[nl2]bit!
-[en2]
+[nl2]bit![en2]
 We want to sleep in a
-[nl2]bed, too~.
-[en2]
+[nl2]bed, too~.[en2]
 Can you imagine trying
 [nl2]to move one of these
-[nl3]around?!
-[en2]
+[nl3]around?![en2]
 This isn't pirate
-[nl2]gear, right...?
-[en2]
+[nl2]gear, right...?[en2]
 I wonder if it's still
-[nl2]in use.
-[en2]
+[nl2]in use.[en2]
 This chair looks
-[nl2]pretty hard.
-[en2]
+[nl2]pretty hard.[en2]
 This is maybe a pirate
 [nl2]rug...?[np]
 [nl3]Nah... That'd just be
 [scl]dumb.
-[scl]
-[en2]
+[scl][en2]
 [X$6A][SP$00D3]
 [nl2]   Wait, Miss Gina!
 [nl3][np]
 [scl]    I'll stay! Deon
 [scl]    I'll stay! Max
 [scl]    I'll stay! Jack[X$6E][en1]
-What is this picture?!
-[en2]
-Hey, our boss!
-[en2]
-I don't know!
-[en2]
-A treasure!
-[en2]
-What is this picture?
-[en2]
-Oh! Our boss!
-[en2]
+What is this picture?![en2]
+Hey, our boss![en2]
+I don't know![en2]
+A treasure![en2]
+What is this picture?[en2]
+Oh! Our boss![en2]
 I don't know, but he's
-[nl2]a looker alright.
-[en2]
-A treasure!
-[en2]
+[nl2]a looker alright.[en2]
+A treasure![en2]
 Goo goo ga...[en2]
 Waah! waah!
 [nl2]...He's having a
-[nl3]nightmare.
-[en2]
-Goo goo.
-[en2]
+[nl3]nightmare.[en2]
+Goo goo.[en2]
 Yay! Hooray![np]
 [nl2]...They saw the 
-[nl2]treasure and started
-[nl3]cheering.
-[en2]
+[nl3]treasure and started
+[scl]cheering.[en2]
 Croak. Ribbit.[np]
-[nl2]TL: Just pathetic.
-[en2]
+[nl2]TL: Just pathetic.[en2]
 That's just like Miss
 [nl2]Sisko![np]
 [nl3]Her father was a fine
 [scl]man, and the same
-[scl]blood is in her.
-[en2]
-How peaceful~!
-[en2]
+[scl]blood is in her.[en2]
+How peaceful~![en2]
 Thanks to those two, I
-[nl2]became Mayor.
-[en2]
+[nl2]became Mayor.[en2]
 My husband once told
 [nl2]me about some heroic
 [nl3]kids that he knew.[np]
 [scl]Now that I've got a
 [scl]story to match, I'm
-[scl]sure he'll be happy.
-[en2]
+[scl]sure he'll be happy.[en2]
 Our town became
 [nl2]prosperous thanks to
-[nl3]Benson and Indio!
-[en2]
+[nl3]Benson and Indio![en2]
 Indio's daughter is a
 [nl2]schoolteacher.[np]
 [nl3]She's very respectable
 [scl]just like her father.[np]
 [scl]Benson's son is...
 [scl]Well... Nobody knows
-[scl]where he went to.
-[en2]
+[scl]where he went to.[en2]
 Miss Sisko reminds
-[nl2]you of Miss Gina.
-[en2]
+[nl2]you of Miss Gina.[en2]
 Studying is all well
 [nl2]and good.[np]
 [nl3]But sometimes you need
-[scl]play outside!
-[en2]
+[scl]play outside![en2]
 It's so nice to study
 [nl2]under the great blue
-[nl3]sky.
-[en2]
+[nl3]sky.[en2]
 This is Miss Sisko's
 [nl2]class, but she's
-[nl3]running late~...
-[en2]
+[nl3]running late~...[en2]
 If you don't like
 [nl2]studying, you should
 [nl3]try Miss S's classes![np]
 [scl]They're really easy to
-[scl]understand.
-[en2]
+[scl]understand.[en2]
 Hey, isn't Miss Sisko
-[nl2]just wonderful?
-[en2]
+[nl2]just wonderful?[en2]
 Miss Sisko is a great
-[nl2]teacher, isn't she?
-[en2]
+[nl2]teacher, isn't she?[en2]
 When you get home, say
 [nl2]hi to your teacher for
-[nl3]me.
-[en2]
+[nl3]me.[en2]
 Isn't it a great
-[nl2]house?
-[en2]
+[nl2]house?[en2]
 This is where life
-[nl2]begins!
-[en2]
+[nl2]begins![en2]
 
-[nl2]  Hey![C$56] Wait for me!
-[en2]
-Meow~, meow~.
-[en2]
+[nl2]  Hey![C$56] Wait for me![en2]
+Meow~, meow~.[en2]
 I feel like everything
 [nl2]is different than it
-[nl3]used to be...
-[en2]
+[nl3]used to be...[en2]
 Did you remember our
-[nl2]promise?
-[en2]
+[nl2]promise?[en2]
 What's with this
-[nl2]picture...
-[en2]
-I dunno...
-[en2]
-Couldn't tell ya...
-[en2]
+[nl2]picture...[en2]
+I dunno...[en2]
+Couldn't tell ya...[en2]
 Never seen it before
-[nl2]in my life...
-[en2]
+[nl2]in my life...[en2]
 It doesn't look like
-[nl2]it gets used much.
-[en2]
+[nl2]it gets used much.[en2]
 It doesn't seem like
-[nl2]we can lift it...
-[en2]
-I want it~...
-[en2]
+[nl2]we can lift it...[en2]
+I want it~...[en2]
 What could it be used
-[nl2]for...?
-[en2]
+[nl2]for...?[en2]
 You shouldn't decorate
 [nl2]your house with
 [nl3]something like this.[np]
 [scl]It'll just add to the
-[scl]clutter!
-[en2]
+[scl]clutter![en2]
 Decorating your house
 [nl2]with something like
-[nl3]this'll just look bad.
-[en2]
+[nl3]this'll just look bad.[en2]
 The treasure chest
-[nl2]won't open like that!
-[en2]
+[nl2]won't open like that![en2]
 It's made of gold?
-[nl2]That's kinda weird!
-[en2]
-Ah, hah!
-[en2]
+[nl2]That's kinda weird![en2]
+Ah, hah![en2]
 Whose grave is
-[nl2]this...?
-[en2]
+[nl2]this...?[en2]
 I wonder what this
-[nl2]black stone is for?
-[en2]
+[nl2]black stone is for?[en2]
 Pegi, pegi, pegi~.[np]
 [nl2]TL: It's not so bad
-[nl3]being a human's pet~.
-[en2]
+[nl3]being a human's pet~.[en2]
 [X$6A]Oh, right! The
 [nl2]leader hat. I'm not
 [nl3]the leader anymore.[np]
 [scl]...Please save Miss
 [scl]Gina!
-[scl]
-[en1]
+[scl][en1]
 If you're the leader,
 [nl2]then do something
 [nl3]about it![en2]
@@ -5940,42 +5702,34 @@ Let's try it like
 Hm, something seems
 [nl2]off...[np]
 [nl3]Maybe our positions
-[scl]aren't right?
-[en1]
+[scl]aren't right?[en1]
 Yay! We lifted the
-[nl2]pot!!
-[en1]
+[nl2]pot!![en1]
 Half the water
 [nl2]splashed out![np]
 [nl3]Thanks, [team] Team,
 [scl]we were in hot water.[np]
 [scl]Now we can lift the
-[scl]pot ourselves.
-[en1]
+[scl]pot ourselves.[en1]
 After you get the
 [nl2]「fish hook「 back from
 [nl3]Jim,[np]
 [scl]show it to our leader.
 [scl]He's pretty bummed out
-[scl]over it...
-[en2]
+[scl]over it...[en2]
 Whoa!
-[nl2]   A bite!!!
-[en1]
+[nl2]   A bite!!![en1]
 This is a big one!
 [nl2]It's too big for me to
 [nl3]pull it in alone![np]
 [scl]Someone, help me reel
-[scl]it in!
-[en1]
+[scl]it in![en1]
 It's heavy, so it has
 [nl2]to be something big![np]
 [nl3]Don't stand there,
-[scl]come and help!
-[en2]
+[scl]come and help![en2]
 Hurry! It'll get
-[nl2]away!!
-[en2]
+[nl2]away!![en2]
 
 [nl2]          1[SP$023B][en1]
 [F2]Max got Swimming
@@ -6006,8 +5760,7 @@ When you think 「Huh?!「
 [scl]fishy!「 press the [C$02]
 [scl]button![np]
 [scl]There's a lot to
-[scl]explore!
-[en2]
+[scl]explore![en2]
 If you see a [C$36] then
 [nl2]it's time to press [C$02].[np]
 [nl3]Also, when you touch
@@ -6015,8 +5768,7 @@ If you see a [C$36] then
 [scl][C$36] will pop up...[np]
 [scl]You'll want to push
 [scl]the [C$02] button whenever
-[scl]you can!
-[en2]
+[scl]you can![en2]
 Perform actions with
 [nl2]the [C$04] button.[np]
 [nl3]Equip an item from the
@@ -6035,18 +5787,15 @@ Squeak, squeak![np]
 [scl]it's probably thanks
 [scl]to me.[en2]
 [X$6A]This seems to
-[nl2]be a path for mice.
-[en2]
+[nl2]be a path for mice.[en2]
 [team] Team... please!
 [nl2]I'm... begging you!
-[nl3]Do somethiiiiing!!
-[en2]
+[nl3]Do somethiiiiing!![en2]
 Find the hole the
 [nl2]mouse used to get in
 [nl3]and chase it away![np]
 [scl]Pretty please, [team]
-[scl]Team?
-[en2]
+[scl]Team?[en2]
 [X$6A]Find the hole in
 [nl2]the tent where mice
 [nl3]could come in,[np]
@@ -6054,30 +5803,25 @@ Find the hole the
 [scl]never think about
 [scl]coming in here again.[np]
 [scl]Pretty please, [team]
-[scl]Team?
-[en2]
+[scl]Team?[en2]
 [X$6A]You plugged the
 [nl2]hole in the tent
 [nl3]earlier,[np]
 [scl]and the mouse ran
 [scl]away?[np]
 [scl]I wonder if he's
-[scl]gone for good...
-[en2]
+[scl]gone for good...[en2]
 Squeak!...Squeak![np]
 [nl2]TL: Dang it! I'm
 [nl3]trapped! Don't lay a
-[scl]finger on me!
-[en2]
+[scl]finger on me![en2]
 Squeeeeak eeek!![np]
 [nl2]TL: Don't pull there!!
-[nl3]Aaaargh...!
-[en1]
+[nl3]Aaaargh...![en1]
 I want to show my
 [nl2]thanks to you, [team]
 [nl3]Team.[np]
-[scl]Come closer to me.
-[en2]
+[scl]Come closer to me.[en2]
 [F2]Received a Matching
 [nl2]Scarf from Miss Gina![np]
 [nl3]Keep it a secret,
@@ -6088,14 +5832,12 @@ I think it's awfully
 [scl]If you see more
 [scl]people in trouble,[np]
 [scl]be sure to help them
-[scl]out, too, okay?
-[en1]
+[scl]out, too, okay?[en1]
 You can put items in
 [nl2]this wooden box...[np]
 [nl3]But you can't put them
 [scl]in from that far away.[np]
-[scl]Get a little closer.
-[en2]
+[scl]Get a little closer.[en2]
 Yes, you put items in
 [nl2]this box.[np]
 [nl3]Don't worry... It's not
@@ -6106,8 +5848,7 @@ Don't you get it?[np]
 [nl3]item, put it in the
 [scl]box.[np]
 [scl]Try checking the box
-[scl]with [C$46].
-[en2]
+[scl]with [C$46].[en2]
 It seems that is the
 [nl2]wrong item.[np]
 [nl3]Why don't you try with
@@ -7032,8 +6773,7 @@ Benson is hiding in an
 [nl2]empty house.[np]
 [nl3]But you can't get in
 [scl]unless the house is
-[scl]built with a door.
-[en1]
+[scl]built with a door.[en1]
 
 [nl2] That's the only way!
 [en2]
@@ -9149,14 +8889,12 @@ Could that person
 [scl]mentioned it.
 [en2]
 Our dad is cool, isn't
-[nl2]he?
-[en2]
+[nl2]he?[en2]
 Captain, forgive me!
 [en2]
 Benson, take care of
 [nl2]these children,
-[nl3]please!!
-[en2]
+[nl3]please!![en2]
 Ah? Hey bro!
 [nl2]Look at my boy!
 [en1]
@@ -9174,8 +8912,7 @@ Come closer and show
 [scl]your punishment.
 [en2]
 It's a picture of
-[nl2]Polly's dad, the King.
-[en2]
+[nl2]Polly's dad, the King.[en2]
 Let's get close and
 [nl2]check it out.
 [en2]
@@ -9288,14 +9025,12 @@ Did you listen to
 Did you show Benson
 [nl2]the picture?[np]
 [nl3]I'm sure that will make
-[scl]him believe you.
-[en1]
+[scl]him believe you.[en1]
 Benson knows all about
 [nl2]the Mammoth Brothers,[np]
 [nl3]so why don't you ask
 [scl]him to show you
-[scl]around?
-[en1]
+[scl]around?[en1]
 Check for Benson's
 [nl2]smoke signal.[np]
 [nl3]Use the telescope in
@@ -9303,8 +9038,7 @@ Check for Benson's
 [scl]Head wherever the
 [scl]his signal is.[np]
 [scl]Be sure to use
-[scl]teamwork~.
-[en1]
+[scl]teamwork~.[en1]
 Speaking of Luck
 [nl2]Rocks, do you have a
 [nl3]good stash?[np]
@@ -9320,8 +9054,7 @@ Benson's final words
 [nl3]in the village.[np]
 [scl]If you follow his
 [scl]instructions, you'll
-[scl]find the Crystal Ball!
-[en1]
+[scl]find the Crystal Ball![en1]
 Try talking to the man
 [nl2]near the gorilla.
 [en1]
@@ -9335,8 +9068,7 @@ Are you stuck in the
 [nl2]cave with the mice?[np]
 [nl3]Try catching the daddy
 [scl]mouse like a fish and
-[scl]then tug it gently.
-[en1]
+[scl]then tug it gently.[en1]
 The Crystal Ball is in
 [nl2]the underground cave!
 [nl3]Hurry and get it!
