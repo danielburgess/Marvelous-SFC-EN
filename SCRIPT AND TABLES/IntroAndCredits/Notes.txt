@@ -1,0 +1,2 @@
+After being built by MarvelousBuild, both the intro and the credits 
+needed to be modified manually so that the "text block" lengths matched the originals.
