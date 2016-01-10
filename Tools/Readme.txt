@@ -17,8 +17,6 @@ ScriptCompare - This custom tool was built to handle the script editing for Marv
 
 SaveTool - This is a tool I created so I could use it to quickly backup and switch between different SRM files.
 
-Crappy Source Code is included for MBuild, ScriptCompare, and SaveTool. (It'll get better...) 
-I'll be releasing updates to these tools as time goes on, I suppose.
 
 ================
 Excluded Tools:
