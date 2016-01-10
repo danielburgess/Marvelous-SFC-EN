@@ -1,4 +1,4 @@
-<build original="ORIGINAL ROM\base.sfc" name="MarvelousATI_Eng" version="RCG" path=".\">
+<build original="ORIGINAL ROM\base.sfc" name="MarvelousATI" pad="true" version="RCG_EN_v1" revision="05" revbyteloc="7FDB" path=".\" diff="">
 	
 	<!-- Pointer Tables - These point both to compressed and un-compressed data and graphics  -->
 	<rep file="BIN DATA\x11E3_(Highest_Byte)Bank_Pointers.bin" offset="11E3"/>
@@ -19,19 +19,21 @@
 	
 	<!-- Contains title graphics -->
 	<lzr file="BIN GFX\x121964_LZR_TITLE_RCGv3.bin" offset="121964" />
+
+	<!-- Title logo tilemap -->
+    <lzr file="BIN DATA\x123726_LZR_Title_tilemap_rcg_v2.bin" offset="123726"/>
 	
 	<!-- Font used for intro -->
 	<lzr file="BIN GFX\x123951_LZR_INTRO_NOFONT.bin" offset="123951" />
+	
 	<!-- Extended Font used for intro -->
 	<lzr file="BIN GFX\x1246DE_LZR_INTRO_NOFONT2.bin" offset="1246DE" /> 
+	
 	<!-- Intro Palette Fix - Adds gradient style -->
 	<rep file="BIN DATA\x125ADE_REP_INTRO_PALETTE.bin" offset="125ADE" /> 
 	
 	<!-- Font used by the credits sequence -->
     <lzr file="BIN GFX\x125BB6_LZR_CREDITS_FONT.bin" offset="125BB6"/>
-	
-	<!-- Title logo tilemap -->
-    <lzr file="BIN DATA\x123726_LZR_Title_tilemap_rcg_v2.bin" offset="123726"/>
 	
 	<!-- Tilemap for CH3 Sign... -->
 	<lzr file="BIN DATA\x12BDA4_LZR_Sign_Tilemap.bin" offset="12BDA4" />
@@ -49,10 +51,12 @@
 
 	<!-- Benson's Grave CH2 -->
 	<lzr file="BIN GFX\x142CE4_LZR_BENSON_GRAVE.bin" offset="142CE4"/>
-	<!-- The Monster Poster CH2 -->
-	<lzr file="BIN GFX\x145F3B_THEMONSTER.bin" offset="145F3B"/>
+
 	<!-- Camp Tips in CH1 -->
 	<lzr file="BIN GFX\x1447AE_CampRules.bin" offset="1447AE" />
+
+	<!-- The Monster Poster CH2 -->
+	<lzr file="BIN GFX\x145F3B_THEMONSTER.bin" offset="145F3B"/>
 
 	<!-- Chore List in CH2 -->
 	<lzr file="BIN GFX\x1490F9_ChoreList.bin" offset="1490F9" /> 
@@ -60,12 +64,6 @@
 	<!-- Camp Controls in CH1 -->
 	<lzr file="BIN GFX\x14A478_CONTROL_POSTER.bin" offset="14A478" /> 
 	
-	<!-- Wall-drawn crayon text for Nose,Bird legs,ant legs,spider legs... -->
-	<lzr file="BIN GFX\x14B628_LZR_PUZZ1_REV2.bin" offset="14B628" />
-	
-	<!-- Last part of the Colonel's Permission Slip -->
-	<lzr file="BIN GFX\0x151D31_LZR_COLONEL NOTE_2.bin" offset="151D31" />
-
 	<!-- Optional Nintendo badge credit modification -->
 	<lzr file="BIN GFX\x1D948F_LZR_NINTENDO.bin" offset="1D948F" /> 
 	<!-- Subtitle image -->
@@ -79,9 +77,16 @@
 	
 	<!-- Credits have been moved from $12735C to $21B400 (Defined in Index 3F in the Pointer tables) -->
 	<lzr file="BIN DATA\marvelous_eng_credits_20150704.bin" offset="21B400"/>
+	
    	<!-- Intro "tile map" -->
 	<lzr file="BIN DATA\marvelous_eng_intro_20150420.bin" offset="21B9AC" />
 
+	<!-- Wall-drawn crayon text for Nose,Bird legs,ant legs,spider legs... -->
+	<lzr file="BIN GFX\x14B628_LZR_PUZZ1_REV2.bin" offset="21BBD0" />
+	
+	<!-- Last part of the Colonel's Permission Slip -->
+	<lzr file="BIN GFX\0x151D31_LZR_COLONEL NOTE_2.bin" offset="21D500" />
+	
 	<!-- Misc menus, numbers, etc. -->
 	<rep file="BIN GFX\x268000_REP_MISC_MENU_AND_NUMBERS.bin" offset="268000" />	
 	
@@ -98,6 +103,9 @@
 	<!-- Modified action menu -->
 	<rep file="BIN GFX\x2B6000_REP_ACTION_MENU_GFX.bin" offset="2B6000" /> 
 	
+	
+	<!-- Fix for Puzzle "13"... -->
+	<rep file="BIN DATA\0x2BB96A_Puzzle13_Fix.bin" offset="2BB96A" />
 	
 	<!-- Tile Indexes for Wall-drawn Nose,BAS... -->
 	<rep file="BIN DATA\0x2BBAC6_REP_PUZ1.bin" offset="2BBAC6" />
@@ -117,7 +125,10 @@
 	<!-- Tile map for Journal Menu PART 5... -->
 	<rep file="BIN DATA\x2C1AAF_JournalMenu5.bin" offset="2C1AAF" />
 	
-	<!-- Modified monkey screech, "Hey!" and "That's Enough!" -->
+	<!-- Fix for Save & Quit Journal Menu... -->
+	<rep file="BIN DATA\0x2C1EE2_ASM_MenuFix.bin" offset="2C1EE2" />
+	
+	<!-- Modified monkey screech, "Hey!" and "That's Enough!/Cut it OUT!" -->
 	<rep file="BIN GFX\x2CE000_REP_LARGE_FONT.bin" offset="2CE000" />	
 	
 	<!-- Tile map for Wall-drawn Nose,BAS... -->
@@ -126,9 +137,8 @@
 	<!-- Tile map for ChoreList... -->
 	<rep file="BIN DATA\x2D2060_REP_ChoreListTileDef.bin" offset="2D2060" />
 	
-	
-	<!-- The entire script now building in a separate process... Original script starts @ 21B400 -->
-	<ins file="BIN DATA\ati-script-eng.bin|BIN DATA\ati-menu-tiles-eng_rev6.bin|BIN DATA\ati-item-list-eng.bin" offset="300000"/>
+	<!-- The entire script now built seperately... Original script starts @ 21B400 -->
+	<ins file="BIN DATA\marvelous_eng_script_20160106.bin|BIN DATA\ati-menu-tiles-eng_rev6.bin|BIN DATA\ati-item-list-eng.bin" offset="300000"/>
 	
 	<!--<sbi file="SCRIPT AND TABLES\marvelous_eng_script_rev5.txt" table="SCRIPT AND TABLES\Marvelous_Nihongo.tbl" offset="300000" />-->
 </build>

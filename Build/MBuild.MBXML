@@ -34,7 +34,7 @@
 	
 	<!-- Font used by the credits sequence -->
     <lzr file="BIN GFX\x125BB6_LZR_CREDITS_FONT.bin" offset="125BB6"/>
-		
+	
 	<!-- Tilemap for CH3 Sign... -->
 	<lzr file="BIN DATA\x12BDA4_LZR_Sign_Tilemap.bin" offset="12BDA4" />
 	<!-- Tilemap for Chore list, Camp Tips, Benson's Grave... -->
@@ -51,10 +51,10 @@
 
 	<!-- Benson's Grave CH2 -->
 	<lzr file="BIN GFX\x142CE4_LZR_BENSON_GRAVE.bin" offset="142CE4"/>
-	
+
 	<!-- Camp Tips in CH1 -->
 	<lzr file="BIN GFX\x1447AE_CampRules.bin" offset="1447AE" />
-	
+
 	<!-- The Monster Poster CH2 -->
 	<lzr file="BIN GFX\x145F3B_THEMONSTER.bin" offset="145F3B"/>
 
