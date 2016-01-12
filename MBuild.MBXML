@@ -138,7 +138,7 @@
 	<rep file="BIN DATA\x2D2060_REP_ChoreListTileDef.bin" offset="2D2060" />
 	
 	<!-- The entire script now built seperately... Original script starts @ 21B400 -->
-	<ins file="BIN DATA\marvelous_eng_script_20160106.bin|BIN DATA\ati-menu-tiles-eng_rev6.bin|BIN DATA\ati-item-list-eng.bin" offset="300000"/>
+	<ins file="BIN DATA\ati-script-en_20160112.bin|BIN DATA\ati-menu-tiles-eng_rev6.bin|BIN DATA\ati-item-list-eng.bin" offset="300000"/>
 	
 	<!--<sbi file="SCRIPT AND TABLES\marvelous_eng_script_rev5.txt" table="SCRIPT AND TABLES\Marvelous_Nihongo.tbl" offset="300000" />-->
 </build>
