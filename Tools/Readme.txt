@@ -8,7 +8,7 @@ TM (TileMolester) - This is a custom exe version of the popular java-based tool.
 Marvelous Build - This is a custom tool I built that is where all the magic happens. 
 	Supports Lunar Compress compression formats. Working on compression support for other games. 
 	Also working on text pointer table generation (not required for Marvelous).
-	Running this app builds the final ROM based against the information in the MBuild.XML file.
+	Running this app builds the final ROM based against the information in the MBuild.MBXML file.
 	Make sure you have all the files in place before running. Error checking is still a bit rough.
 
 ScriptCompare - This custom tool was built to handle the script editing for Marvelous. 

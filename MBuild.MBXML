@@ -1,4 +1,4 @@
-<build original="ORIGINAL ROM\base.sfc" name="MarvelousATI" pad="true" version="EN_v1" revision="05" revbyteloc="7FDB" path=".\" diff="ips|xdelta">
+<build original="ORIGINAL ROM\base.sfc" name="MarvelousATI" pad="true" version="EN_v1" revision="06" revbyteloc="7FDB" path=".\" diff="ips|xdelta">
 	
 	<!-- Pointer Tables - These point both to compressed and un-compressed data and graphics  -->
 	<rep file="BIN DATA\x11E3_(Highest_Byte)Bank_Pointers.bin" offset="11E3"/>

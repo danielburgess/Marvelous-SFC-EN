@@ -1,7 +1,7 @@
-# Marvelous-SFC-EN
+# Marvelous-SFC-EN v1.06
 Translation repository for Marvelous: Another Treasure Island for the Super Famicom
 
-Included are all the files related to the v1.05 english release made on romhacking.net
+Included are all the files related to the english release made on romhacking.net
 
 Building the project is accomplished by first copying the original japanese rom file into the "ORIGINAL ROM" folder and renaming it to "base.sfc". You can name it whatever you like as long as the "./Build/MBuild.MBXML" file is modified to match. Once this is accomplished, you can use my MBuild tool to create the final release.
 
@@ -18,7 +18,7 @@ TM (TileMolester) - This is a custom exe version of the popular java-based tool.
 MBuild (Marvelous Build) - This is a custom tool I built that is where all the magic happens. 
 	Supports Lunar Compress compression formats. Working on compression support for other games. 
 	Also working on text pointer table generation (not required for Marvelous).
-	Running this app builds the final ROM based against the information in the MBuild.XML file.
+	Running this app builds the final ROM based against the information in the MBuild.MBXML file.
 	Make sure you have all the files in place before running. Error checking is still a bit rough.
 
 ScriptCompare - This custom tool was built to handle the script editing for Marvelous. 
