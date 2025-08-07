@@ -1,4 +1,8 @@
 # Marvelous-SFC-EN v1.06
+## Additional translation efforts are now underway
+LuigiBlood is currently managing this project due to personal reasons. I've helped, but the current project light years beyond what I could have managed alone. Take a look at the current repo! https://github.com/LuigiBlood/marvelous-translation 
+
+
 Translation repository for Marvelous: Another Treasure Island for the Super Famicom
 
 Included are all the files related to the english release made on romhacking.net
